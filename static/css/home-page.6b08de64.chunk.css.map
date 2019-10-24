@@ -1,0 +1,1 @@
+{"version":3,"sources":["Home.module.css"],"names":[],"mappings":"AAAA,0BACE,iBAAkB,CAClB,cAAe,CACf,iBAAkB,CAClB,aACF","file":"home-page.6b08de64.chunk.css","sourcesContent":[".homeHeadline {\r\n  padding-top: 100px;\r\n  font-size: 40px;\r\n  text-align: center;\r\n  color: rgb(47, 47, 47);\r\n}\r\n"]}
